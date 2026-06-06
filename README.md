@@ -35,8 +35,8 @@ Weekly assessments and practice projects completed during the Excel Skills for B
 - Used COUNTIF to summarize results
 
 ### Before
-![Before](C3-W2-Final-Assessment-Before)
+![Before](C3-W2-Final-Assessment-Before.png)
 ### After
-![After](C3-W2-Final-Assessment-After)
+![After](C3-W2-Final-Assessment-After.png)
   
 
