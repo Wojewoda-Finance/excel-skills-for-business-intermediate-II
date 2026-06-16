@@ -41,7 +41,7 @@ Weekly assessments and practice projects completed during the Excel Skills for B
 
 ## 2026-06-06  |  C3-W3-Final-Assessment
 
-- Completed Week 2 final assessment covering CHOOSE, VLOOKUP and INDEX functions.
+- Completed Week 3 final assessment covering CHOOSE, VLOOKUP and INDEX functions.
 
 ### Function Used:
 
