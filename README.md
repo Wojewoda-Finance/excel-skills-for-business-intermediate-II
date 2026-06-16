@@ -38,5 +38,28 @@ Weekly assessments and practice projects completed during the Excel Skills for B
 ![Before](C3-W2-Final-Assessment-Before.png)
 ### After
 ![After](C3-W2-Final-Assessment-After.png)
+
+## 2026-06-06  |  C3-W3-Final-Assessment
+
+- Completed Week 2 final assessment covering CHOOSE, VLOOKUP and INDEX functions.
+
+### Function Used:
+
+- CHOOSE
+- VLOOKUP
+- INDEX + MATCH
+
+### Tasks Completed:
+
+- Decoded item and colour codes
+- Calculated phone call charges using lookup tables
+- Completed a restaurant order pricing exercise
+- Retrieved product prices based on item and colour combinations
+- Calculated totals from lookup results
+
+### ScreenShoot:
+![ScreenShoot](C3-W3-Final-Assessment-photo.png)
+
+
   
 
