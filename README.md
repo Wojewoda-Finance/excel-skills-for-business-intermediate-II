@@ -37,7 +37,7 @@
 ### After
 ![After](C3-W2-Final-Assessment-After.png)
 
-## 2026-06-06  |  C3-W3-Final-Assessment
+## 2026-06-16  |  C3-W3-Final-Assessment
 
 - Completed Week 3 final assessment.
 
