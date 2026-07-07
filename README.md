@@ -1,4 +1,4 @@
-# excel-skills-for-business-intermediate-II
+<img width="896" height="237" alt="image" src="https://github.com/user-attachments/assets/911e565d-1293-4e18-bb4a-3ab6049e2af1" /># excel-skills-for-business-intermediate-II
 Weekly assessments and practice projects completed during the Excel Skills for Business: Intermediate II course.
 
 ## Course Information
@@ -10,7 +10,7 @@ Weekly assessments and practice projects completed during the Excel Skills for B
 
 ## 2026-06-07 | C3-W2-Final-Assessment
   
-- Completed Week 2 final assessment covering IF, IFERROR, AND, OR, NOT, COUNTIF and Data Validation
+- Completed Week 2 final assessment.
   
 ### Skills Used:
 
@@ -41,7 +41,7 @@ Weekly assessments and practice projects completed during the Excel Skills for B
 
 ## 2026-06-06  |  C3-W3-Final-Assessment
 
-- Completed Week 3 final assessment covering CHOOSE, VLOOKUP and INDEX functions.
+- Completed Week 3 final assessment.
 
 ### Function Used:
 
@@ -59,6 +59,31 @@ Weekly assessments and practice projects completed during the Excel Skills for B
 
 ### ScreenShoot:
 ![ScreenShoot](C3-W3-Final-Assessment-photo.png)
+
+## 2026-07-07  |  C3-W5-Final-Assessment
+
+- Completed Week 3 final assessment.
+
+### Skills Used:
+
+- SUMPRODUCT
+- Data Table  
+- Solver
+- Goal Seek
+- Scenario Manager
+
+### Taks Completed:
+
+- Calculated estimated work hours using **SUMPRODUCT**
+- Built one-variable and two-variable **Data Tables**
+- Calculated wage costs with and without bonuses
+- Used **Goal Seek** to determine the required weekly quantity
+- Used **Solver** to maximize weekly profit
+- Created alternative scenarios with **Scenario Manager**
+
+### ScreenShoot:
+![ScreenShoot](C3-W5-Final-Assessment-photo.png)
+
 
 
   
