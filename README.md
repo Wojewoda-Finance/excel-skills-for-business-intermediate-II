@@ -1,5 +1,3 @@
-<img width="896" height="237" alt="image" src="https://github.com/user-attachments/assets/911e565d-1293-4e18-bb4a-3ab6049e2af1" /># excel-skills-for-business-intermediate-II
-Weekly assessments and practice projects completed during the Excel Skills for Business: Intermediate II course.
 
 ## Course Information
 
