@@ -82,6 +82,39 @@
 ### ScreenShoot:
 ![ScreenShoot](C3-W5-Final-Assessment-photo.png)
 
+## 2026-07-15 | C3-Final-Assessment
+
+Completed the final assessment.
+
+### Skills Used:
+- Data quality and validation
+- VLOOKUP
+- Formula auditing and debugging
+- What-If Analysis
+- Optimization with Solver
+- Recording and editing VBA macros
+
+ ### Taks Completed:
+- Added data validation rules to prevent incorrect user input
+- Corrected invalid client records using lookup lists
+- Classified new clients and loyalty rewards using formulas
+- Assigned membership status based on event attendance
+- Highlighted clients matching specific criteria with conditional formatting
+- Retrieved client information for an event attendee list
+- Assigned seating areas based on country and membership status
+- Identified and corrected spreadsheet errors using auditing tools
+- Performed break-even analysis with Goal Seek
+- Compared catering providers using Scenario Manager
+- Optimized event costs using Solver
+- Created, edited, and assigned VBA macros to automate scenario selection
+
+### ScreenShoot:
+![ScreenShoot](C3-Final-Assessment-photo.png)
+
+## Certificate:
+![Certificate (PDF)](Coursera J7GH1SDDYP1O.pdf)
+![Credential Verification](https://www.coursera.org/account/accomplishments/verify/J7GH1SDDYP1O)
+
 
 
   
