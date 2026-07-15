@@ -112,7 +112,8 @@ Completed the final assessment.
 ![ScreenShoot](C3-Final-Assessment-photo.png)
 
 ## Certificate:
-![Certificate (PDF)](Coursera J7GH1SDDYP1O.pdf)
+![Certificate (PDF)](Coursera%20J7GH1SDDYP1O.pdf)
+
 ![Credential Verification](https://www.coursera.org/account/accomplishments/verify/J7GH1SDDYP1O)
 
 
