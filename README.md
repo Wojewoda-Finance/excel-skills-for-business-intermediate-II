@@ -114,7 +114,7 @@ Completed the final assessment.
 ## Certificate:
 ![Certificate (PDF)](Coursera%20J7GH1SDDYP1O.pdf)
 
-[Credential Verification]([https://www.coursera.org/account/accomplishments/verify/J7GH1SDDYP1O](https://coursera.org/share/f0ed6621645b862070b4b3ee7cdface9))
+[Credential Verification](https://www.coursera.org/account/accomplishments/verify/J7GH1SDDYP1O)
 
 
 
