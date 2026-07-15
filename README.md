@@ -4,7 +4,7 @@
 - Course: Excel Skills for Business: Intermediate II
 - Platform: Coursera
 - Started: 2026-06-03
-- Status: In Progress
+- Status: Completed 2026-07-15
 
 ## 2026-06-07 | C3-W2-Final-Assessment
   
